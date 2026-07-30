@@ -1,0 +1,18 @@
+
+# Virtual environments
+venv/
+.env/
+.env.*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+#databases
+data/*.db
+*.db
+*.sqlite
+
+#CSVs
+*.csv
+=======
